@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Chaithanya Hegde
 
-<!--
-**CHAITHANYAHEGDE/CHAITHANYAHEGDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering (Cyber Security)
+Manipal Institute of Technology
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Malware Analysis
+- Intrusion Detection Systems
+- Explainable AI
+- Bug Bounty
+- Machine Learning
+- O-RAN Networks
+
+## Featured Projects
+
+- IDS and Malware Research
+- O-RAN Fronthaul Intelligence Platform
+- TwinShield
+
+## Tech Stack
+
+Python • LightGBM • SHAP • Optuna • FastAPI • React • Scikit-Learn
+
+## Current Focus
+
+- Binary Malware Detection
+- Intrusion Detection Systems
+- Explainable AI
+- Bug Bounty
+- Research Publication
