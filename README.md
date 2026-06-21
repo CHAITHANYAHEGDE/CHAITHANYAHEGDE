@@ -1,130 +1,120 @@
 <div align="center">
 
-# Chaithanya R Hegde
+# 👋 Hey, I'm Chaithanya R Hegde
 
-### Computer Science Engineering (Cyber Security)
-### Manipal Institute of Technology
+### Cybersecurity • Machine Learning • Offensive Security • Research
 
-Building intelligent systems at the intersection of Cybersecurity, Machine Learning, and Network Intelligence.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Researcher;Machine+Learning+Enthusiast;Malware+Analysis+%26+Intrusion+Detection;Bug+Bounty+%7C+Offensive+Security;Building+Intelligent+Defense+Systems" />
 
----
+<br>
 
-Malware Analysis • Intrusion Detection Systems • Explainable AI • Bug Bounty • Offensive Security • Network Intelligence
+*"Understand Threats. Build Intelligence. Secure the Future."*
 
 </div>
 
 ---
 
-# About Me
+# 🚀 About Me
 
-I am a Computer Science student specializing in Cyber Security with interests spanning machine learning, malware analysis, intrusion detection systems, explainable AI, offensive security, and network intelligence.
-
-My work focuses on building interpretable and scalable cybersecurity solutions through machine learning, statistical validation, and intelligent automation.
-
----
-
-# Research Areas
-
-- Malware Detection
-- Intrusion Detection Systems
-- Explainable Artificial Intelligence
-- Feature Engineering
-- Hyperparameter Optimization
-- Statistical Validation
-- Network Security
-- Threat Intelligence
-- Offensive Security
-- Bug Bounty
+```yaml
+Name: Chaithanya R Hegde
+Education: B.Tech CSE (Cyber Security)
+Institute: Manipal Institute of Technology
+Focus:
+  - Malware Analysis
+  - Intrusion Detection Systems
+  - Explainable AI
+  - Bug Bounty
+  - Offensive Security
+  - Network Intelligence
+```
 
 ---
 
-# Current Work
+# 🔥 Current Focus
 
-### IDS and Malware Research
+🦠 Binary Malware Detection
 
-Research on memory-based malware detection and intrusion detection systems using machine learning, explainable AI, and statistical validation.
+🛡️ Intrusion Detection Systems
 
-### O-RAN Fronthaul Intelligence Platform
+🧠 Explainable AI (SHAP & LIME)
 
-AI-powered network analytics platform for topology discovery, traffic analysis, capacity estimation, and explainable network intelligence.
+🎯 Bug Bounty & Offensive Security
 
-### TwinShield
+⚙️ Hyperparameter Optimization
 
-Security automation framework for reconnaissance, vulnerability assessment, and offensive security workflows.
+📚 Cybersecurity Research
 
 ---
 
-# Technical Stack
+# 🛠 Tech Stack
 
 ### Languages
 
-Python • Java • TypeScript • JavaScript
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge)
 
-### Machine Learning
+### AI & ML
 
-Scikit-Learn • LightGBM • XGBoost • CatBoost • Optuna
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-success?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-red?style=for-the-badge)
+![Optuna](https://img.shields.io/badge/Optuna-orange?style=for-the-badge)
 
 ### Explainable AI
 
-SHAP • LIME
+![SHAP](https://img.shields.io/badge/SHAP-purple?style=for-the-badge)
+![LIME](https://img.shields.io/badge/LIME-blueviolet?style=for-the-badge)
 
-### Backend
+### Development
 
-FastAPI
-
-### Frontend
-
-React • TypeScript
-
-### Data Science
-
-Pandas • NumPy • Matplotlib • Seaborn
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 
 ---
 
-# Interests
+# ⭐ Featured Projects
 
-- Artificial Intelligence for Cybersecurity
-- Malware Analysis
-- Intrusion Detection Systems
-- Explainable AI
-- Bug Bounty
-- Offensive Security
-- Threat Intelligence
-- Network Analytics
-- Open Source
+### 🦠 IDS and Malware Research
 
----
-
-# Current Goals
-
-- Publish research in AI for Cybersecurity
-- Build impactful open-source projects
-- Advance in Bug Bounty and Offensive Security
-- Develop intelligent cyber defense systems
-- Become a Cybersecurity Research Engineer
-
----
-
-# Featured Repositories
-
-### IDS-and-Malware-Research
 Advanced Machine Learning for Cybersecurity
 
-### O-RAN-Fronthaul-Intelligence-Platform
-AI-Powered Network Intelligence
-
-### TwinShield
-Cybersecurity Automation Framework
+LightGBM • Optuna • SHAP • Statistical Validation
 
 ---
 
-# Connect
+### 📡 O-RAN Fronthaul Intelligence Platform
 
-GitHub: github.com/CHAITHANYAHEGDE
+AI-Powered Network Analytics
+
+FastAPI • React • Explainable AI
 
 ---
 
-### "Understand Threats. Build Intelligence. Secure the Future."
+### 🛡 TwinShield
+
+Security Automation Framework
+
+Reconnaissance • Vulnerability Assessment • Offensive Security
+
+---
+
+# 🎯 2026 Goals
+
+- 📄 Publish Cybersecurity Research
+- 🐞 Advance in Bug Bounty
+- 🤖 Build AI-Powered Security Tools
+- 🌎 Contribute to Open Source
+- 🚀 Become a Cybersecurity Research Engineer
+
+---
+
+<div align="center">
+
+### ⚡ Interests
+
+Malware Analysis • AI for Security • Bug Bounty • Threat Intelligence • Network Security • Explainable AI
 
 </div>
