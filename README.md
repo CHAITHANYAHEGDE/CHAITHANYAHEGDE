@@ -1,120 +1,192 @@
 <div align="center">
 
-# 👋 Hey, I'm Chaithanya R Hegde
+# Chaithanya R Hegde
 
-### Cybersecurity • Machine Learning • Offensive Security • Research
+### Computer Science Engineering (Cyber Security) • Manipal Institute of Technology
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Researcher;Machine+Learning+Enthusiast;Malware+Analysis+%26+Intrusion+Detection;Bug+Bounty+%7C+Offensive+Security;Building+Intelligent+Defense+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Cybersecurity+Research+%7C+Machine+Learning;Malware+Analysis+%7C+Intrusion+Detection+Systems;Explainable+AI+%7C+Statistical+Learning;Bug+Bounty+%7C+Offensive+Security;Building+Intelligent+Cyber+Defense+Systems" />
 
 <br>
 
-*"Understand Threats. Build Intelligence. Secure the Future."*
+Building intelligent systems at the intersection of Cybersecurity, Machine Learning, and Network Intelligence.
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=CHAITHANYAHEGDE&style=flat-square&color=58A6FF">
+<img src="https://img.shields.io/github/followers/CHAITHANYAHEGDE?style=flat-square">
+<img src="https://img.shields.io/github/stars/CHAITHANYAHEGDE?style=flat-square">
+</p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## About
+
+Computer Science Engineering student specializing in Cyber Security with interests in machine learning, malware analysis, intrusion detection systems, explainable AI, offensive security, and network intelligence.
+
+My work focuses on developing interpretable and reproducible machine learning frameworks for cybersecurity applications.
+
+---
+
+## Current Focus
 
 ```yaml
-Name: Chaithanya R Hegde
-Education: B.Tech CSE (Cyber Security)
-Institute: Manipal Institute of Technology
-Focus:
-  - Malware Analysis
+Research:
+  - Binary Malware Detection
   - Intrusion Detection Systems
   - Explainable AI
+  - Statistical Validation
+
+Security:
   - Bug Bounty
   - Offensive Security
-  - Network Intelligence
+  - Vulnerability Research
+
+Development:
+  - FastAPI
+  - React
+  - Intelligent Network Analytics
 ```
 
 ---
 
-# 🔥 Current Focus
+## Research Areas
 
-🦠 Binary Malware Detection
+<table>
+<tr>
+<td width="50%">
 
-🛡️ Intrusion Detection Systems
+### Machine Learning
 
-🧠 Explainable AI (SHAP & LIME)
+- Feature Engineering
+- Hyperparameter Optimization
+- Ensemble Learning
+- Cost-Sensitive Learning
+- Threshold Optimization
 
-🎯 Bug Bounty & Offensive Security
+</td>
 
-⚙️ Hyperparameter Optimization
+<td width="50%">
 
-📚 Cybersecurity Research
+### Cybersecurity
 
----
+- Malware Analysis
+- Intrusion Detection Systems
+- Threat Intelligence
+- Offensive Security
+- Network Security
 
-# 🛠 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge)
-
-### AI & ML
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
-![LightGBM](https://img.shields.io/badge/LightGBM-success?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/XGBoost-red?style=for-the-badge)
-![Optuna](https://img.shields.io/badge/Optuna-orange?style=for-the-badge)
-
-### Explainable AI
-
-![SHAP](https://img.shields.io/badge/SHAP-purple?style=for-the-badge)
-![LIME](https://img.shields.io/badge/LIME-blueviolet?style=for-the-badge)
-
-### Development
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+</td>
+</tr>
+</table>
 
 ---
 
-# ⭐ Featured Projects
+## Featured Projects
 
-### 🦠 IDS and Malware Research
+### IDS and Malware Research
 
 Advanced Machine Learning for Cybersecurity
 
-LightGBM • Optuna • SHAP • Statistical Validation
+- Binary Malware Detection
+- Explainable AI
+- LightGBM + Optuna
+- Statistical Validation
 
 ---
 
-### 📡 O-RAN Fronthaul Intelligence Platform
+### O-RAN Fronthaul Intelligence Platform
 
-AI-Powered Network Analytics
+AI-Powered Network Intelligence
 
-FastAPI • React • Explainable AI
+- Topology Detection
+- Traffic Analytics
+- Capacity Estimation
+- Explainable Network Intelligence
 
 ---
 
-### 🛡 TwinShield
+### TwinShield
 
 Security Automation Framework
 
-Reconnaissance • Vulnerability Assessment • Offensive Security
+- Reconnaissance
+- Vulnerability Assessment
+- Offensive Security Workflows
 
 ---
 
-# 🎯 2026 Goals
+## Technology Stack
 
-- 📄 Publish Cybersecurity Research
-- 🐞 Advance in Bug Bounty
-- 🤖 Build AI-Powered Security Tools
-- 🌎 Contribute to Open Source
-- 🚀 Become a Cybersecurity Research Engineer
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,typescript,javascript"/>
+</p>
+
+### Machine Learning and Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+</p>
+
+Scikit-Learn • LightGBM • XGBoost • CatBoost • Optuna • Pandas • NumPy
+
+### Backend and Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,react,nodejs"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+</p>
 
 ---
+
+## Research Interests
+
+- Artificial Intelligence for Cybersecurity
+- Malware Detection
+- Intrusion Detection Systems
+- Explainable Artificial Intelligence
+- Statistical Learning
+- Threat Intelligence
+- Offensive Security
+- Network Analytics
+
+---
+
+## 2026 Goals
+
+- Publish research in AI for Cybersecurity
+- Build impactful open-source projects
+- Advance in Bug Bounty and Offensive Security
+- Develop intelligent cyber defense systems
+- Contribute to the open-source community
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-### ⚡ Interests
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=CHAITHANYAHEGDE&show_icons=true&theme=github_dark&hide_border=true"/>
 
-Malware Analysis • AI for Security • Bug Bounty • Threat Intelligence • Network Security • Explainable AI
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=CHAITHANYAHEGDE&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+## Philosophy
+
+> Understanding threats, building intelligence, and securing the future through research and engineering.
+
+<div align="center">
+
+Cybersecurity • Machine Learning • Research • Open Source
 
 </div>
